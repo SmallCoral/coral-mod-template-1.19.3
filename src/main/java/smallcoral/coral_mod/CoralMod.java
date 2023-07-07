@@ -17,6 +17,6 @@ public class CoralMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello world!");
+		LOGGER.info("Hello SmallCoral!");
 	}
 }
